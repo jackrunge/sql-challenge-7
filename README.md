@@ -1,0 +1,1 @@
+All the files here were completed for the Challenge 7 Assignment for the DU Data Analytics Bootcamp. All of the data used was provided by edX, and I adapted the code provided by edX with the help of the Xpert Learning Assisstant.
